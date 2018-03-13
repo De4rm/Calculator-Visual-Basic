@@ -1,0 +1,12 @@
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\bin\Debug\Assign_1.exe.config
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\bin\Debug\Assign_1.exe
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\bin\Debug\Assign_1.pdb
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\bin\Debug\Assign_1.xml
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\obj\Debug\Assign_1.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\obj\Debug\Assign_1.Form1.resources
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\obj\Debug\Assign_1.Resources.resources
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\obj\Debug\Assign_1.vbproj.GenerateResource.Cache
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\obj\Debug\Assign_1.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\obj\Debug\Assign_1.exe
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\obj\Debug\Assign_1.xml
+C:\Users\Dell\Source\Repos\Assign_1\Assign_1\obj\Debug\Assign_1.pdb

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Assign_1
+</name>
+</assembly>
+<members>
+<member name="T:Assign_1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Assign_1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Assign_1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:Assign_1.Form1.clear">
+ clear its a global variable that show when
+ we need to clear number from tbxResult
+ ex. when we press * clear = True and when we press 
+ a number tbxResult is cleared and rewrited with 
+ value of pressed button
+</member>
+<member name="F:Assign_1.Form1.equalPress">
+ equalPress help to find out when user 
+ pressed equal on keyboard or button
+</member>
+<member name="M:Assign_1.Form1.Make_Null_Hidden">
+ ------------------------------------------
+ This procedure is for hidden labels of form 
+ it clear them from their values
+</member>
+<member name="M:Assign_1.Form1.ResultOfOperation">
+this procedure are executed when user  press equal 
+button on form or press equal on keyboard
+</member>
+<member name="M:Assign_1.Form1.Add_To_TextBox(System.Char)">
+ Add_To_TextBox contains conditions
+ for concatinating an number to existing string
+</member>
+<member name="M:Assign_1.Form1.Attache_Sigh(System.Char)">
+ Procedure for events on pressing +-*/ buttons
+</member>
+<member name="M:Assign_1.Form1.GetResult">
+ Procedure that calc. result of 
+ operation between 2 numbers
+</member>
+<member name="M:Assign_1.Form1.btnZero_Click(System.Object,System.EventArgs)">
+Next 11 events processing input  
+from user when buttons on form 0,1,2,3,4,5,6,7,8,9 
+and . are pressed.
+we use Add_To_TextBox procedure with parameter that 
+take value from 0 to 9 and . 
+</member>
+<member name="M:Assign_1.Form1.btnMinus_Click(System.Object,System.EventArgs)">
+ next 4 events process event on click
+ buttons +-*/
+ they use procedure Attache_Sigh_of_Operation with parameter
+ +-*/
+</member>
+<member name="M:Assign_1.Form1.btnEqual_Click(System.Object,System.EventArgs)">
+ Event on cick of button equal
+ use procedure ResultOfOperation without parameters
+</member>
+<member name="M:Assign_1.Form1.btnClear_Click(System.Object,System.EventArgs)">
+ event on click of button C on form
+ clean tbxResult
+</member>
+<member name="M:Assign_1.Form1.tbxResult_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+Proccesing event on key press in TextBox tbxResult
+</member>
+</members>
+</doc>
