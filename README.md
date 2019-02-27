@@ -1,3 +1,3 @@
 "# Calculator-Visual-Basic" 
 
-Just University Project.
+University Project.
